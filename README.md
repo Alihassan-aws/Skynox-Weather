@@ -3,6 +3,8 @@ Here's a simple, clear README.md for Skynox Weather. It includes how to install,
 
 A sleek, modern, and responsive weather web application built using **Next.js**.
 
+![image](https://github.com/user-attachments/assets/79df5496-f19b-47b1-891b-b343628d8d8c)
+
 ---
 
 ## 📦 Tech Stack
