@@ -1,4 +1,3 @@
-Here's a simple, clear README.md for Skynox Weather. It includes how to install, run, and notes about the SWC issue you faced.
 # 🌤️ Skynox Weather
 
 A sleek, modern, and responsive weather web application built using **Next.js**.
